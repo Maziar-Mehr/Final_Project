@@ -8,9 +8,9 @@ by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr), December 2021
 ![Cover 2](https://user-images.githubusercontent.com/88034001/146410874-e194aabb-2f94-48a2-b566-f47d458066c3.jpg)
 
 ## Table of contents
-- Project Brief
-- Data & Visualization
-- tools
+- [Project Brief](https://github.com/Maziar-Mehr/Final_Project#project-brief)
+- [Data & Visualization](https://github.com/Maziar-Mehr/Final_Project#data--visualization)
+- [Tools](https://github.com/Maziar-Mehr/Final_Project#Tools)
 
 
 
@@ -40,7 +40,7 @@ dashboard blew shows the frequency of the words in this data set.
 
 For further information you can find the Tableau worksheets [here](https://github.com/Maziar-Mehr/Final_Project/tree/main/Tableau)
 
-## tools
+## Tools
 I used the following tools to achieve the objective.
 
 - **Tableau:** You can find the Tableau worksheets [here](https://public.tableau.com/app/profile/maziar7848/viz/Hip-Hopgenreanalysis/MostCommonWordsTop20?publish=yes).
