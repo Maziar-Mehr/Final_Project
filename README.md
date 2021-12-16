@@ -16,22 +16,26 @@ by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr), December 2021
 
 
 ## Project Brief
-**Scenario:**
-You are working as an analyst for a real estate company. Your company wants to build a machine learning model to predict the selling prices of houses based on a 
-variety of features on which the value of the house is evaluated.
+**Why Hip-Hop?**
+ Boundaries that divide genres are fuzzy and the passing of time augments this even more. Hip-hop is a very lyric-heavy genre and many of the key descriptive metrics that describe lyric count for hip-hop are different from all other genres. Accordingly, hip hop genre is a great fit for this project.
+ 
+**Description :**
+The first step of this project was to automate the Spotify app with python to use the Spotify API and then get the lyrics of the song that is currently playing on the Spotify App by scrapping. On the other hand, I created a lyrics data frame by scrapping several sources online (Genius and Musixmatch ...). One of the main challenges in this project is encoding and clustering the lyrics. There are so many methods available out there for text encoding and clustering but I used the Universal sentence encoder because is suitable for large texts. 
+ 
 
 **Challenge:**
-Use the given data set to build a model that will predict the price of a house based on features provided in the dataset.
+Automate Spotify with Python (Spotify API) and Text Embedding and Clustering. 
 
-**Problem:**
-Senior management also wants to explore the characteristics of the houses using some business intelligence tools. One of those parameters includes understanding 
-which factors are responsible for higher property value - $650K and above.
+**Advanced Analysis & Data Scientist Techniques :**
+- Data Visualisation to show or interactively explore trends, patterns, relationships
+- Scraping data or utilising APIs to collect data, which will need cleaning, wrangling
+- NLP: unstructured data, text and sentiment analysis
 
 Further project details such as deliverables can be found [here](https://github.com/vonate5/midterm_regression_project/tree/main/project_details)
 
 ## Data
 Leveraging on the [data](https://github.com/vonate5/midterm_regression_project/tree/main/data) we were provided with, we used Tableau's data visualisation tools to explore the relationships between features. 
-To find out more about the distribution of the important features we highlighted, you can have a look on our Tableau dashboard below:<br/> <br/>
+To find out more about the distribution of the important features I highlighted, you can have a look on our Tableau dashboard below:<br/> <br/>
 <img width="1059" alt="tableau_visualization" src="https://user-images.githubusercontent.com/88034001/142411325-114de632-cc82-4ecd-859d-f8c11bbfe4c4.png">
 
 
