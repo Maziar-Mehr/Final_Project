@@ -8,9 +8,9 @@ by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr), December 2021
 ![Cover 2](https://user-images.githubusercontent.com/88034001/146410874-e194aabb-2f94-48a2-b566-f47d458066c3.jpg)
 
 ## Table of contents
-- [Project Brief](https://github.com/vonate5/midterm_regression_project#project-brief)
-- [Data & Visualization](https://github.com/vonate5/midterm_regression_project#data)
-- [tools](https://github.com/vonate5/midterm_regression_project#process--tools)
+- Project Brief
+- Data & Visualization
+- tools
 
 
 
