@@ -38,7 +38,7 @@ dashboard blew shows the frequency of the words in this data set.
 ![Visual](https://user-images.githubusercontent.com/88034001/146430671-b7d62695-a3f0-4879-b06e-abc1d701f53d.png)
 
 
-For further information you can find the Tableau worksheets [here](https://github.com/Maziar-Mehr/Final_Project/tree/main/Tableau)
+For further information you can find the Tableau worksheets [here.](https://github.com/Maziar-Mehr/Final_Project/tree/main/Tableau)
 
 ## Tools
 I used the following tools to achieve the objective.
