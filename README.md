@@ -1,6 +1,6 @@
 # Song Recommender Based on Lyrics 
 
-by [Maziar Mehrbakhsh](https://github.com/Maziar-Mehr), December 2021
+by [Maziar Mehr](https://github.com/Maziar-Mehr), December 2021
 ## Analyzing lyrics from the Hip-hop genre and song recommendations based on lyrics
 
 
