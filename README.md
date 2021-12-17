@@ -35,7 +35,7 @@ Automate Spotify with Python (Spotify API) and Text Embedding and Clustering.
 
 ## Data & Visualization
 The raw [data](https://github.com/Maziar-Mehr/Final_Project/tree/main/Data) contains the lyrics of 274 songs from 12 different Hip-Hop artists. The 
-dashboard blew shows the frequency of the words in this data set. 
+dashboard below shows the frequency of the words in this data set. 
 ![Visual](https://user-images.githubusercontent.com/88034001/146430671-b7d62695-a3f0-4879-b06e-abc1d701f53d.png)
 
 
