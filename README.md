@@ -1,12 +1,12 @@
-# Song Recommender Based on Lyrics 
+# Lyric-based Song Recommendation Using Universal Sentence Encoder Embeddings and Spotify’s API
 
 by [Maziar Mehr](https://github.com/Maziar-Mehr), December 2021
-## Analyzing lyrics from the Hip-hop genre and song recommendations based on lyrics
+## Understanding song lyrics using deep learning and natural language processing.
 [Presentation](https://slides.com/d/yCJDfAs/live)
 
+![Record-shop](https://user-images.githubusercontent.com/88034001/148057551-f9046147-d8dc-47dd-aa0e-f75e289dc65e.jpg)
 
 
-![Cover 2](https://user-images.githubusercontent.com/88034001/146410874-e194aabb-2f94-48a2-b566-f47d458066c3.jpg)
 
 ## Table of contents
 - [Project Brief](https://github.com/Maziar-Mehr/Final_Project#project-brief)
@@ -16,8 +16,7 @@ by [Maziar Mehr](https://github.com/Maziar-Mehr), December 2021
 
 
 ## Project Brief
-**Why Hip-Hop?**
- Boundaries that divide genres are fuzzy and the passing of time augments this even more. Hip-hop is a very lyric-heavy genre and many of the key descriptive metrics that describe lyric count for hip-hop are different from all other genres. Accordingly, hip hop genre is a great fit for this project.
+Boundaries that divide music genres are fuzzy and the passing of time augments this even more. Hip-hop is a very lyric-heavy genre and many of the key descriptive metrics that describe lyric count for hip-hop are different from all other genres. Accordingly, hip hop genre is a great fit for this project but this method can be used for any other music genre that contains lyrics.
  
 **Description :**
 The first step of this project is to automate the Spotify app with python to use the Spotify API and then get the lyrics of the song that is currently playing on the Spotify App by scrapping. Besides, I created a lyrics data frame by scrapping several sources online (Genius and Musixmatch ...). One of the main challenges in this project is encoding and clustering the lyrics. There are so many methods available out there for text encoding and clustering but I used the Universal sentence encoder because is suitable for large texts. 
