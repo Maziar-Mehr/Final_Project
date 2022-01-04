@@ -1,7 +1,7 @@
 # Lyric-based Song Recommendation Using Universal Sentence Encoder Embeddings and Spotify’s API
 
 by [Maziar Mehr](https://github.com/Maziar-Mehr), December 2021
-## Understanding song lyrics using deep learning and natural language processing.
+## Understanding song lyrics using natural language processing.
 [Presentation](https://slides.com/d/yCJDfAs/live)
 
 ![Record-shop](https://user-images.githubusercontent.com/88034001/148057551-f9046147-d8dc-47dd-aa0e-f75e289dc65e.jpg)
@@ -19,7 +19,7 @@ by [Maziar Mehr](https://github.com/Maziar-Mehr), December 2021
 Boundaries that divide music genres are fuzzy and the passing of time augments this even more. Hip-hop is a very lyric-heavy genre and many of the key descriptive metrics that describe lyric count for hip-hop are different from all other genres. Accordingly, hip hop genre is a great fit for this project but this method can be used for any other music genre that contains lyrics.
  
 **Description :**
-The first step of this project is to automate the Spotify app with python to use the Spotify API and then get the lyrics of the song that is currently playing on the Spotify App by scrapping. Besides, I created a lyrics data frame by scrapping several sources online (Genius and Musixmatch ...). One of the main challenges in this project is encoding and clustering the lyrics. There are so many methods available out there for text encoding and clustering but I used the Universal sentence encoder because is suitable for large texts. 
+In this venture, I dived into how natural langue processing can be applied to build a lyrics-based song recommender. First, I automated the Spotify app with python to find the lyrics of the current song playing using Spotify API and BeautifulSoup. Besides, I created the lyrics data frame using web scraping from a couple of different online sources. Finally, after Embedding the lyrics by using Universal Sentence Encoder I clustered them using the K-means method. 
  ![P - Final](https://user-images.githubusercontent.com/88034001/146432587-72907535-6436-4146-9b20-fdbbc727e7ce.png)
 
 
