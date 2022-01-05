@@ -19,7 +19,7 @@ by [Maziar Mehr](https://github.com/Maziar-Mehr), December 2021
 Boundaries that divide music genres are fuzzy and the passing of time augments this even more. Hip-hop is a very lyric-heavy genre and many of the key descriptive metrics that describe lyric count for hip-hop are different from all other genres. Accordingly, hip hop genre is a great fit for this project but this method can be used for any other music genre that contains lyrics.
  
 **Description :**
-In this venture, I dived into how natural langue processing can be applied to build a lyrics-based song recommender. First, I automated the Spotify app with python to find the lyrics of the current song playing using Spotify API and BeautifulSoup. Besides, I created the lyrics data frame using web scraping from a couple of different online sources. Finally, after Embedding the lyrics by using Universal Sentence Encoder I clustered them using the K-means method. 
+In this venture, I dived into how natural language processing can be applied to build a lyrics-based song recommender. First, I automated the Spotify app with python to find the lyrics of the current song playing using Spotify API and BeautifulSoup. Besides, I created the lyrics data frame using web scraping from a couple of different online sources. Finally, after Embedding the lyrics by using Universal Sentence Encoder I clustered them using the K-means method. 
  ![P - Final](https://user-images.githubusercontent.com/88034001/146432587-72907535-6436-4146-9b20-fdbbc727e7ce.png)
 
 
